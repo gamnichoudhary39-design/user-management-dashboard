@@ -21,7 +21,7 @@ const logout = () => {
   <nav class="navbar">
 
     <div class="logo">
-      Admin Panel
+      user Panel
     </div>
 
     <div class="menu-container">
