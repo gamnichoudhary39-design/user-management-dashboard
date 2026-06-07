@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Aman",
+      "lastName": "Sharma",
+      "email": "aman@gmail.com",
+      "gender": "female",
+      "bloodGroup": "A+",
+      "age": 56,
+      "phone": "7716534565"
+    },
+    {
+      "id": "2",
+      "firstName": "Riya",
+      "lastName": "Singh",
+      "email": "riya@gmail.com",
+      "phone": "8765421000",
+      "age": 43,
+      "gender": "female",
+      "bloodGroup": "AB-"
+    },
+    {
+      "id": "3",
+      "firstName": "gamni",
+      "lastName": "choudhary",
+      "email": "gamnichoudhary39@gmail.com",
+      "phone": "7626037124",
+      "username": "emily_johnson",
+      "height": "",
+      "weight": "",
+      "age": 18.5,
+      "gender": "female",
+      "bloodGroup": "A+"
+    },
+    {
+      "id": "54",
+      "firstName": "lovish",
+      "lastName": "choudhary",
+      "email": "lovishchoudhary@gmail.com",
+      "phone": "4321567890",
+      "username": "emma_dev",
+      "height": "",
+      "weight": "",
+      "age": 13,
+      "gender": "male",
+      "bloodGroup": "B+"
+    },
+    {
+      "firstName": "Ashwani",
+      "email": "aswani@gmail.com",
+      "phone": "9780765947",
+      "age": 50,
+      "gender": "male",
+      "bloodGroup": "A+",
+      "height": "",
+      "weight": "",
+      "id": "Ec2V_rbqo6U"
+    },
+    {
+      "id": "C4TU_ak3qgA",
+      "firstName": "sharan",
+      "email": "sharan@gmail.com",
+      "phone": "7788096540",
+      "age": 22,
+      "gender": "male",
+      "bloodGroup": "A+",
+      "height": 5.6,
+      "weight": 58
+    },
+    {
+      "id": "BUtT3kPp1NA",
+      "firstName": "cheery",
+      "email": "cheery@gmail.com",
+      "phone": "9876452310",
+      "age": 56,
+      "gender": "male",
+      "bloodGroup": "A-",
+      "height": "",
+      "weight": ""
+    },
+    {
+      "id": "kPP2Hpm9eVU",
+      "firstName": "ravi",
+      "email": "ravi@gmail.com",
+      "phone": "8907654321",
+      "age": 67,
+      "gender": "male",
+      "bloodGroup": "A+",
+      "height": "",
+      "weight": ""
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
